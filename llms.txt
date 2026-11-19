@@ -1,0 +1,15 @@
+# CapyApps
+
+> Estúdio independente brasileiro de apps Android simples, cada um com uma capivara virtual. Sem conta, sem servidor, dados no aparelho e funcionando sem internet. Contato: osamdemendes@gmail.com
+
+## Apps
+- [CapyFoco](https://samdemendes21.github.io/capyapps/capyfoco/): Estude todo dia com uma capivara que cresce com você. Cronômetro de foco, ofensiva, contagem para provas como o ENEM e bloqueio de apps que distraem. Grátis para Android. (Study every day with a capybara that grows with you. Focus timer, study streaks, exam countdowns and a mode that pauses distracting apps. Free for Android.)
+- [CapyShape](https://samdemendes21.github.io/capyapps/capyshape/): Conte calorias, beba água e treine com uma capivara que muda de corpo junto com você. Simples, grátis e funciona sem internet. Android. (Count calories, drink water and work out with a capybara whose body changes with yours. Simple, free and works offline. Android.)
+- [CapyPlants](https://samdemendes21.github.io/capyapps/capyplants/): Lembrete de regar plantas com uma capivara fofa. Grátis, sem conta e funciona sem internet. Android. (Plant watering reminder with a cute capybara. Free, no account, works offline. Android.)
+- [CapyCare](https://samdemendes21.github.io/capyapps/capycare/): Metas pequenas de autocuidado e diário de humor com uma capivara que nunca cobra. Sem conta e funcionando sem internet. Android, em breve. (Small self-care goals and a mood journal with a capybara that never nags. No account, works offline. Android, coming soon.)
+
+## Privacidade
+- [CapyFoco](https://samdemendes21.github.io/capyapps/capyfoco/privacidade/) · [English](https://samdemendes21.github.io/capyapps/capyfoco/privacy/)
+- [CapyShape](https://samdemendes21.github.io/capyapps/capyshape/privacidade/) · [English](https://samdemendes21.github.io/capyapps/capyshape/privacy/)
+- [CapyPlants](https://samdemendes21.github.io/capyapps/capyplants/privacidade/) · [English](https://samdemendes21.github.io/capyapps/capyplants/privacy/)
+- [CapyCare](https://samdemendes21.github.io/capyapps/capycare/privacidade/) · [English](https://samdemendes21.github.io/capyapps/capycare/privacy/)
